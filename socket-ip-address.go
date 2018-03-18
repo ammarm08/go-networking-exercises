@@ -1,5 +1,5 @@
 /*
-  IP
+  IP: type IP []byte
 */
 
 package main
@@ -17,7 +17,7 @@ func main() {
   }
   name := os.Args[1]
 
-  addr := net.ParseIP(name) // type IP []byte
+  addr := net.ParseIP(name)
   if addr == nil {
     fmt.Println("Invalid address")
   } else {
