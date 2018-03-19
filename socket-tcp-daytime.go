@@ -2,7 +2,7 @@
   Daytime Service: replies with time
 
   <net> register/listen on port: func ListenTCP(net string, laddr *TCPAddr) (l *TCPListener)
-  <TCPListener> accept request: func (l *TCPListener) Accept() (c Conn, err os.Error)
+  <net> accept request: func (l *TCPListener) Accept() (c Conn, err os.Error)
 
 */
 
