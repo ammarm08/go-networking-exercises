@@ -52,7 +52,7 @@ func main() {
 	encoder := json.NewEncoder(conn)
 	decoder := json.NewDecoder(conn)
 
-  // do it 10 times!
+	// do it 10 times!
 	for n := 0; n < 10; n++ {
 		// write to connection
 		encoder.Encode(person)
