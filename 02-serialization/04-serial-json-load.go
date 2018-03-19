@@ -56,7 +56,7 @@ func loadJSON(fname string, key interface{}) {
 	err = decoder.Decode(key)
 	checkError(err)
 
-  // close
+	// close
 	in.Close()
 }
 
