@@ -1,0 +1,10 @@
+Plaintext Protocol
+
+Commands:
+DIR
+PWD
+CD d (where d is name of dir)
+
+DIR -> shows what is in current directory of server
+PWD -> working directory name of server
+CD d -> change directory to d
