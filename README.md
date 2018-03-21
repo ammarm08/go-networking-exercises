@@ -39,6 +39,10 @@ Following along with text and exercises in [Network Programming with Go](http://
   - FTP Client/Server
   - State Diagrams
 4. Charsets and Encoding
+  - UTF-8
+  - UTF-16
+  - Encoding/Decoding and Endianness
+  - ISO 8859-2 (Internationalization)
 5. Security
 6. HTTP
 7. Templates
