@@ -34,6 +34,10 @@ Following along with text and exercises in [Network Programming with Go](http://
   - gob
   - base64
 3. Application-Level Protocols
+  - Protocol Design & Version Control
+  - Message Format
+  - FTP Client/Server
+  - State Diagrams
 4. Charsets and Encoding
 5. Security
 6. HTTP
