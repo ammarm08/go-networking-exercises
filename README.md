@@ -44,6 +44,13 @@ Following along with text and exercises in [Network Programming with Go](http://
   - Encoding/Decoding and Endianness
   - ISO 8859-2 (Internationalization)
 5. Security
+  - Hashing Algorithms
+    - MD5 (Symmetrical)
+    - Blowfish (Blocksize)
+  - Encryption Schemes
+    - RSA (Public/Private Key)
+    - X509 (Public Key Infrastructures)
+    - TLS (Transport Layer Security)
 6. HTTP
 7. Templates
 8. Complete Web Server
