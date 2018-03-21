@@ -29,6 +29,10 @@ Following along with text and exercises in [Network Programming with Go](http://
     - Generic Read/Write/Dial/Listen/Accept
   - Raw Sockets/Protocols
 2. Data Serialization
+  - ASN
+  - JSON
+  - gob
+  - base64
 3. Application-Level Protocols
 4. Charsets and Encoding
 5. Security
